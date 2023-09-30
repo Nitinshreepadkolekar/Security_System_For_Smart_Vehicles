@@ -1,0 +1,4 @@
+# python 3.11
+face_recognition
+opencv-python==4.8.0.76
+pip install PyQt5 pyrebase4
